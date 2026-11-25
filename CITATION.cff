@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use GrainLab, please cite it as below."
+type: software
+title: "GrainLab: a grain-size distribution, statistics and soil classification package for the analysis of soils and unconsolidated sediments"
+version: "1.0.2"
+date-released: "2026-11-20"
+authors:
+  - family-names: "Khan"
+    given-names: "Afzal"
+    orcid: "https://orcid.org/0000-0001-8844-122X"
+license: CC-BY-ND-4.0
+doi: 10.5281/zenodo.24372027
+url: "https://zenodo.org/records/24372027"
