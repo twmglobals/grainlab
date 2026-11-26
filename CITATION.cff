@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use GrainLab, please cite it as below."
 type: software
 title: "GrainLab: a grain-size distribution, statistics and soil classification package for the analysis of soils and unconsolidated sediments"
-version: "1.0.2"
-date-released: "2026-11-20"
+version: "1.0.3"
+date-released: "2026-11-26"
 authors:
   - family-names: "Khan"
     given-names: "Afzal"
